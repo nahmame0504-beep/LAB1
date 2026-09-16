@@ -1,0 +1,3 @@
+NLP is fun. Let's dive into it!
+The stock market saw a significant dip today. Many investors remain optimistic!
+Data scientists and data engineers need DATA for robust models.
